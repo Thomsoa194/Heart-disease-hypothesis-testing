@@ -1,5 +1,5 @@
 # Heart disease hypothesis testing
-## In this dataset, I conducted hypothesis testing to determine whether certain variables were associated. The data used is patient data from Cleveland Clinic Foundation. I used Matplotlib and Seaborn libraries to vilusalise this data. The following questions were answered:
+## In this dataset, I conducted hypothesis testing to determine whether certain variables were associated. The data used is patient data from Cleveland Clinic Foundation. I used Matplotlib and Seaborn libraries to visualize this data. The following questions were answered:
 1. Is thalach associated with whether or not a patient will ultimately be diagnosed with heart disease?
 2. What is the difference in mean thlach scores between those diagnosed with heart disease compared to those without?
 3.  Is the average thalach for a person with heart disease equal to the average thalach for a person without heart disease?
